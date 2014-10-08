@@ -636,3 +636,60 @@ font-size: 22px;
 	font-size: 12px;
 }
 /**** End of Chrissyg's advice styles ****/
+
+/**Kate Lilly's styles **/
+.katelilly-advice-body{
+	width:800px;
+	margin:auto;
+	padding:15px;
+	background:url('http://katelillyportfolio.com/images/vertical_landscape_web_left.jpg') repeat -170px -10px;
+	
+}
+.katelilly-advice-wrapper {
+	background:white;
+	width:800px;
+	padding:20px;
+	margin:5px;
+	border-radius:7px;
+}
+.katelilly-advice  h2, h3 {
+	font-family:‘Trebuchet MS’, Helvetica, sans-serif;
+}
+.katelilly-advice-body h1 {
+	color:#111111;
+	font-size:32px;
+	font-family:‘Trebuchet MS’, Helvetica, sans-serif;
+	line-height:200%;
+}
+.katelilly-advice h2 {
+	font-style:italic;
+	text-align:center;
+	font-size:24px;
+	color:black;
+	line-height:250%;
+}
+.katelilly-advice h3 {
+	color:#111111;
+	font-size:20px;
+}
+.katelilly-advice p {
+	text-indent:30px;
+	font-family:Georgia: serif;
+	font-size:18px;
+	color:#222222;
+	padding:10px;
+}
+.katelilly-advice-body a {
+	font-size:16px;
+	color:#444444;
+	font-family:‘Trebuchet MS’, Helvetica, sans-serif;
+}
+#katelilly-advice-footer{
+	font-size:16px;
+	color:#444444;
+	font-family:‘Trebuchet MS’, Helvetica, sans-serif;
+	text-align:center;
+	font-variant:small-caps;
+	line-height:150%;
+}
+/** end of Kate's styles **/
